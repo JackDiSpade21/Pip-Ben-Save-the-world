@@ -1,2 +1,2 @@
 # Pip&Ben Save the world
-Twin-Shooter game made with UE4
+Twin Stick Shooter game made with UE4
